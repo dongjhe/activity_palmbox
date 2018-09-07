@@ -4,11 +4,11 @@ body {
     position: relative;
 }
 
-
-
-
-
-
+@media (min-width: 980px){
+    .w33{
+        width: 33%;
+    }
+}
 
 
 /*slider*/
